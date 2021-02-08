@@ -1,0 +1,49 @@
+{
+"email":"adarsh@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar7.png",
+"jobTitle":"Full Stack",
+"name":"Adarsh Verma",
+"phone":"+37060410814"
+}
+{
+"email":"Rafael@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar8.png",
+"jobTitle":"Recruitment Consultancy",
+"name":"Rafael Briggs",
+"phone":"+33844"
+}
+{
+"email":"Roderick@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar9.png",
+"jobTitle":"Information Technology",
+"name":"Roderick Moss",
+"phone":"+370604"
+}
+{
+"email":"Ronald@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar2.png",
+"jobTitle":"Human Resources",
+"name":"Ronald Bradley",
+"phone":"+08831"
+}
+{
+"email":"Nichole@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar3.png",
+"jobTitle":"IT Contractor",
+"name":"Nichole Haynes",
+"phone":"+814"
+}
+{
+"email":"Vickie@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar4.png",
+"jobTitle":"Human Resources",
+"name":"Vickie Meyer",
+"phone":"+55406"
+}
+{
+"email":"Brooke@getarrays.com",
+"imageUrl":"https://bootdey.com/img/Content/avatar/avatar5.png",
+"jobTitle":"Estate Agency",
+"name":"Brooke Kelly",
+"phone":"+60008"
+}
