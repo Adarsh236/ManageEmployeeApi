@@ -1,6 +1,6 @@
-package git.adarsh236.manageemployeeapi.repository;
+package git.adarsh236.manageemployeeapi.employee;
 
-import git.adarsh236.manageemployeeapi.model.Employee;
+import git.adarsh236.manageemployeeapi.employee.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

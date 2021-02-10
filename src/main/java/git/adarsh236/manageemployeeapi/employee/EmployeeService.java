@@ -1,13 +1,11 @@
-package git.adarsh236.manageemployeeapi.service;
+package git.adarsh236.manageemployeeapi.employee;
 
 import git.adarsh236.manageemployeeapi.exception.UserNotFoundException;
-import git.adarsh236.manageemployeeapi.model.Employee;
-import git.adarsh236.manageemployeeapi.repository.IEmployee;
-import javassist.NotFoundException;
+import git.adarsh236.manageemployeeapi.employee.Employee;
+import git.adarsh236.manageemployeeapi.employee.IEmployee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.nio.file.attribute.UserPrincipalNotFoundException;
 import java.util.List;
 import java.util.UUID;
 

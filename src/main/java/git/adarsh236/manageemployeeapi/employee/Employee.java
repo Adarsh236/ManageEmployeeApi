@@ -1,4 +1,4 @@
-package git.adarsh236.manageemployeeapi.model;
+package git.adarsh236.manageemployeeapi.employee;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
